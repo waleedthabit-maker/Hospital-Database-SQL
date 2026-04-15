@@ -9,7 +9,7 @@ A hospital database system designed using SQL to manage patients, doctors, appoi
 ![ERD](ERD.png)
 
 ### Relational Model
-![Relational Model](relational_model.png)
+![Relational Model](relational_model.jpeg)
 
 ## Features
 - Patient management
